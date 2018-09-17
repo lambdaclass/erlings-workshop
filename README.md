@@ -12,6 +12,15 @@ One of the most important parts of any learning process it the resolution of pra
 - Read [Learn you some Erlang for great good](http://learnyousomeerlang.com/)
 - [Erlang and code style](https://medium.com/@jlouis666/erlang-and-code-style-b5936dceb5e4)
 
+## Setup
+1. Install Erlang:
+    - For Homebrew on OS X: `brew install erlang`
+    - For MacPorts on OS X: `port install erlang`
+    - For Ubuntu and Debian: `apt-get install erlang`
+    - For Fedora: `yum install erlang`
+    - For FreeBSD: `pkg install erlang`
+1. Clone this repository: `git clone git@github.com:lambdaclass/erlings-workshop.git`
+    
 ## Exercises
 
 1. [Hello pattern](hello_pattern)
