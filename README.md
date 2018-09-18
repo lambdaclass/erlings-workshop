@@ -19,7 +19,7 @@ One of the most important parts of any learning process it the resolution of pra
     - For Ubuntu and Debian: `apt-get install erlang`
     - For Fedora: `yum install erlang`
     - For FreeBSD: `pkg install erlang`
-1. Clone this repository: `git clone git@github.com:lambdaclass/erlings-workshop.git`
+1. Clone this repository: `git clone https://github.com/lambdaclass/erlings-workshop.git`
     
 ## Exercises
 
